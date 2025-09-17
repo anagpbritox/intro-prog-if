@@ -17,6 +17,7 @@ d=6
 #end_inputs
 
 
+
 #os prints vão a partir daqui
 
 - print("{} e {} sao {} e {}".format("x, y, a, b"))
