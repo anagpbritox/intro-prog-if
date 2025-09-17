@@ -11,8 +11,8 @@ x=1
 y=2
 a=1
 b=2
-b=5
-d=6
+c=3
+d=4
 
 #end_inputs
 
