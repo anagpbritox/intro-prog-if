@@ -9,7 +9,6 @@ mes = int(input("Digite o numero do mes: "))
 
 #end_inputs
 
-
 if mes == 1:
     print('janeiro')
 
